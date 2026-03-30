@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Print("Hello AgenticGoKit")
+	fmt.Print("Hello Agentic Go Kit")
 }
